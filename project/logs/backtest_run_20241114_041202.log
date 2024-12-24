@@ -1,0 +1,1126 @@
+2024-11-14 04:12:02,307 - INFO - Starting EPL backtesting system
+2024-11-14 04:12:02,331 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 04:12:02,336 - INFO - Initialized base algorithm
+2024-11-14 04:12:02,338 - INFO - Created neural wrapper
+2024-11-14 04:12:02,339 - INFO - Processing 380 matches
+2024-11-14 04:12:02,359 - ERROR - Error processing match 4: 'home_goals'
+2024-11-14 04:12:02,365 - ERROR - Error processing match 5: 'home_goals'
+2024-11-14 04:12:02,371 - ERROR - Error processing match 6: 'home_goals'
+2024-11-14 04:12:02,376 - ERROR - Error processing match 8: 'home_goals'
+2024-11-14 04:12:02,383 - ERROR - Error processing match 9: 'home_goals'
+2024-11-14 04:12:02,392 - ERROR - Error processing match 1: 'home_goals'
+2024-11-14 04:12:02,399 - ERROR - Error processing match 2: 'home_goals'
+2024-11-14 04:12:02,404 - ERROR - Error processing match 3: 'home_goals'
+2024-11-14 04:12:02,409 - ERROR - Error processing match 7: 'home_goals'
+2024-11-14 04:12:02,416 - ERROR - Error processing match 0: 'home_goals'
+2024-11-14 04:12:02,424 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:02,433 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:02,435 - ERROR - Error processing match 19: 'home_goals'
+2024-11-14 04:12:02,442 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:02,452 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:02,453 - ERROR - Error processing match 18: 'home_goals'
+2024-11-14 04:12:02,461 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:02,479 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:02,481 - ERROR - Error processing match 12: 'home_goals'
+2024-11-14 04:12:02,487 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:02,494 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:02,497 - ERROR - Error processing match 10: 'home_goals'
+2024-11-14 04:12:02,507 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:02,515 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:02,517 - ERROR - Error processing match 13: 'home_goals'
+2024-11-14 04:12:02,524 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:02,529 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:02,530 - ERROR - Error processing match 14: 'home_goals'
+2024-11-14 04:12:02,536 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:02,542 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:02,543 - ERROR - Error processing match 15: 'home_goals'
+2024-11-14 04:12:02,548 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:02,553 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:02,555 - ERROR - Error processing match 16: 'home_goals'
+2024-11-14 04:12:02,559 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:02,565 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:02,566 - ERROR - Error processing match 17: 'home_goals'
+2024-11-14 04:12:02,570 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:02,576 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:02,576 - ERROR - Error processing match 11: 'home_goals'
+2024-11-14 04:12:02,584 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:02,588 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:02,589 - ERROR - Error processing match 27: 'home_goals'
+2024-11-14 04:12:02,594 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:02,600 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:02,601 - ERROR - Error processing match 24: 'home_goals'
+2024-11-14 04:12:02,605 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:02,610 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:02,611 - ERROR - Error processing match 22: 'home_goals'
+2024-11-14 04:12:02,616 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:02,622 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:02,623 - ERROR - Error processing match 20: 'home_goals'
+2024-11-14 04:12:02,629 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:02,635 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:02,636 - ERROR - Error processing match 23: 'home_goals'
+2024-11-14 04:12:02,641 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:02,649 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:02,650 - ERROR - Error processing match 28: 'home_goals'
+2024-11-14 04:12:02,656 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:02,665 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:02,667 - ERROR - Error processing match 21: 'home_goals'
+2024-11-14 04:12:02,672 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:02,682 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:02,683 - ERROR - Error processing match 26: 'home_goals'
+2024-11-14 04:12:02,690 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:02,697 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:02,699 - ERROR - Error processing match 25: 'home_goals'
+2024-11-14 04:12:02,706 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:02,715 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:02,716 - ERROR - Error processing match 29: 'home_goals'
+2024-11-14 04:12:02,721 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:02,730 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:02,732 - ERROR - Error processing match 36: 'home_goals'
+2024-11-14 04:12:02,739 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:02,790 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:02,834 - ERROR - Error processing match 31: 'home_goals'
+2024-11-14 04:12:02,859 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:02,879 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:02,882 - ERROR - Error processing match 38: 'home_goals'
+2024-11-14 04:12:02,890 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:02,910 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:02,918 - ERROR - Error processing match 30: 'home_goals'
+2024-11-14 04:12:02,927 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:02,938 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:02,941 - ERROR - Error processing match 37: 'home_goals'
+2024-11-14 04:12:02,947 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:02,956 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:02,958 - ERROR - Error processing match 35: 'home_goals'
+2024-11-14 04:12:02,967 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:02,976 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:02,978 - ERROR - Error processing match 33: 'home_goals'
+2024-11-14 04:12:02,985 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:02,991 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:02,992 - ERROR - Error processing match 32: 'home_goals'
+2024-11-14 04:12:03,001 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,007 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,009 - ERROR - Error processing match 34: 'home_goals'
+2024-11-14 04:12:03,018 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,025 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,027 - ERROR - Error processing match 39: 'home_goals'
+2024-11-14 04:12:03,035 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:03,041 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:03,043 - ERROR - Error processing match 46: 'home_goals'
+2024-11-14 04:12:03,050 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:03,057 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:03,059 - ERROR - Error processing match 41: 'home_goals'
+2024-11-14 04:12:03,067 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:03,073 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:03,075 - ERROR - Error processing match 44: 'home_goals'
+2024-11-14 04:12:03,084 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:03,091 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:03,093 - ERROR - Error processing match 48: 'home_goals'
+2024-11-14 04:12:03,100 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:03,106 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:03,108 - ERROR - Error processing match 42: 'home_goals'
+2024-11-14 04:12:03,117 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,123 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,124 - ERROR - Error processing match 45: 'home_goals'
+2024-11-14 04:12:03,133 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:03,140 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:03,141 - ERROR - Error processing match 47: 'home_goals'
+2024-11-14 04:12:03,150 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:03,157 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:03,158 - ERROR - Error processing match 43: 'home_goals'
+2024-11-14 04:12:03,166 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,176 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:03,178 - ERROR - Error processing match 40: 'home_goals'
+2024-11-14 04:12:03,187 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,193 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:03,195 - ERROR - Error processing match 49: 'home_goals'
+2024-11-14 04:12:03,201 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,209 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:03,211 - ERROR - Error processing match 59: 'home_goals'
+2024-11-14 04:12:03,220 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:03,231 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,233 - ERROR - Error processing match 56: 'home_goals'
+2024-11-14 04:12:03,243 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:03,255 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:03,256 - ERROR - Error processing match 54: 'home_goals'
+2024-11-14 04:12:03,262 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:03,270 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:03,272 - ERROR - Error processing match 50: 'home_goals'
+2024-11-14 04:12:03,282 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:03,291 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:03,292 - ERROR - Error processing match 51: 'home_goals'
+2024-11-14 04:12:03,301 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:03,311 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:03,314 - ERROR - Error processing match 52: 'home_goals'
+2024-11-14 04:12:03,324 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:03,334 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,336 - ERROR - Error processing match 55: 'home_goals'
+2024-11-14 04:12:03,342 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:03,353 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:03,355 - ERROR - Error processing match 57: 'home_goals'
+2024-11-14 04:12:03,365 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:03,373 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:03,374 - ERROR - Error processing match 58: 'home_goals'
+2024-11-14 04:12:03,386 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:03,397 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,400 - ERROR - Error processing match 53: 'home_goals'
+2024-11-14 04:12:03,407 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:03,417 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:03,420 - ERROR - Error processing match 62: 'home_goals'
+2024-11-14 04:12:03,428 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:03,441 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:03,443 - ERROR - Error processing match 64: 'home_goals'
+2024-11-14 04:12:03,452 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,460 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,465 - ERROR - Error processing match 66: 'home_goals'
+2024-11-14 04:12:03,473 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:03,483 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:03,485 - ERROR - Error processing match 65: 'home_goals'
+2024-11-14 04:12:03,492 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:03,504 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:03,507 - ERROR - Error processing match 61: 'home_goals'
+2024-11-14 04:12:03,519 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:03,527 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:03,529 - ERROR - Error processing match 63: 'home_goals'
+2024-11-14 04:12:03,537 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:03,548 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:03,550 - ERROR - Error processing match 67: 'home_goals'
+2024-11-14 04:12:03,556 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:03,567 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:03,569 - ERROR - Error processing match 68: 'home_goals'
+2024-11-14 04:12:03,576 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:03,585 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,587 - ERROR - Error processing match 69: 'home_goals'
+2024-11-14 04:12:03,594 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,604 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:03,606 - ERROR - Error processing match 60: 'home_goals'
+2024-11-14 04:12:03,615 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:03,624 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:03,626 - ERROR - Error processing match 76: 'home_goals'
+2024-11-14 04:12:03,633 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:03,641 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,642 - ERROR - Error processing match 71: 'home_goals'
+2024-11-14 04:12:03,651 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:03,661 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:03,663 - ERROR - Error processing match 72: 'home_goals'
+2024-11-14 04:12:03,672 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:03,682 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,685 - ERROR - Error processing match 70: 'home_goals'
+2024-11-14 04:12:03,693 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:03,704 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:03,706 - ERROR - Error processing match 75: 'home_goals'
+2024-11-14 04:12:03,713 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:03,725 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:03,727 - ERROR - Error processing match 73: 'home_goals'
+2024-11-14 04:12:03,735 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,744 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:03,748 - ERROR - Error processing match 74: 'home_goals'
+2024-11-14 04:12:03,757 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,768 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:03,769 - ERROR - Error processing match 78: 'home_goals'
+2024-11-14 04:12:03,777 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:03,789 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:03,792 - ERROR - Error processing match 79: 'home_goals'
+2024-11-14 04:12:03,804 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:03,813 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:03,816 - ERROR - Error processing match 77: 'home_goals'
+2024-11-14 04:12:03,826 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:03,840 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:03,842 - ERROR - Error processing match 88: 'home_goals'
+2024-11-14 04:12:03,852 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:03,863 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:03,866 - ERROR - Error processing match 87: 'home_goals'
+2024-11-14 04:12:03,881 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:03,891 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:03,893 - ERROR - Error processing match 85: 'home_goals'
+2024-11-14 04:12:03,903 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:03,917 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:03,918 - ERROR - Error processing match 86: 'home_goals'
+2024-11-14 04:12:03,929 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:03,942 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:03,944 - ERROR - Error processing match 80: 'home_goals'
+2024-11-14 04:12:03,954 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:03,966 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:03,968 - ERROR - Error processing match 81: 'home_goals'
+2024-11-14 04:12:03,977 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:03,989 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:03,992 - ERROR - Error processing match 89: 'home_goals'
+2024-11-14 04:12:04,004 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:04,015 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:04,017 - ERROR - Error processing match 83: 'home_goals'
+2024-11-14 04:12:04,028 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:04,039 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:04,041 - ERROR - Error processing match 84: 'home_goals'
+2024-11-14 04:12:04,051 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:04,065 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:04,069 - ERROR - Error processing match 82: 'home_goals'
+2024-11-14 04:12:04,078 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:04,089 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:04,091 - ERROR - Error processing match 92: 'home_goals'
+2024-11-14 04:12:04,104 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:04,118 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:04,120 - ERROR - Error processing match 96: 'home_goals'
+2024-11-14 04:12:04,134 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:04,145 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:04,147 - ERROR - Error processing match 91: 'home_goals'
+2024-11-14 04:12:04,158 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:04,169 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:04,172 - ERROR - Error processing match 97: 'home_goals'
+2024-11-14 04:12:04,186 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:04,198 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:04,200 - ERROR - Error processing match 93: 'home_goals'
+2024-11-14 04:12:04,210 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:04,222 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:04,224 - ERROR - Error processing match 99: 'home_goals'
+2024-11-14 04:12:04,236 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:04,246 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:04,248 - ERROR - Error processing match 98: 'home_goals'
+2024-11-14 04:12:04,258 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:04,271 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:04,276 - ERROR - Error processing match 90: 'home_goals'
+2024-11-14 04:12:04,288 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:04,303 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:04,304 - ERROR - Error processing match 94: 'home_goals'
+2024-11-14 04:12:04,314 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:04,323 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:04,326 - ERROR - Error processing match 95: 'home_goals'
+2024-11-14 04:12:04,338 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:04,351 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:04,353 - ERROR - Error processing match 107: 'home_goals'
+2024-11-14 04:12:04,366 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:04,377 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:04,379 - ERROR - Error processing match 106: 'home_goals'
+2024-11-14 04:12:04,389 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:04,402 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:04,404 - ERROR - Error processing match 102: 'home_goals'
+2024-11-14 04:12:04,416 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:04,426 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:04,428 - ERROR - Error processing match 101: 'home_goals'
+2024-11-14 04:12:04,437 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:04,451 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:04,453 - ERROR - Error processing match 103: 'home_goals'
+2024-11-14 04:12:04,461 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:04,471 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:04,473 - ERROR - Error processing match 104: 'home_goals'
+2024-11-14 04:12:04,483 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:04,493 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:04,496 - ERROR - Error processing match 105: 'home_goals'
+2024-11-14 04:12:04,506 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:04,518 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:04,520 - ERROR - Error processing match 109: 'home_goals'
+2024-11-14 04:12:04,528 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:04,543 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:04,547 - ERROR - Error processing match 100: 'home_goals'
+2024-11-14 04:12:04,558 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:04,571 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:04,573 - ERROR - Error processing match 108: 'home_goals'
+2024-11-14 04:12:04,586 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:04,596 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:04,598 - ERROR - Error processing match 113: 'home_goals'
+2024-11-14 04:12:04,612 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:04,629 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:04,632 - ERROR - Error processing match 115: 'home_goals'
+2024-11-14 04:12:04,648 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:04,661 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:04,665 - ERROR - Error processing match 110: 'home_goals'
+2024-11-14 04:12:04,676 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:04,690 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:04,692 - ERROR - Error processing match 118: 'home_goals'
+2024-11-14 04:12:04,706 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:04,719 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:04,722 - ERROR - Error processing match 114: 'home_goals'
+2024-11-14 04:12:04,736 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:04,749 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:04,751 - ERROR - Error processing match 112: 'home_goals'
+2024-11-14 04:12:04,759 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:04,773 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:04,775 - ERROR - Error processing match 111: 'home_goals'
+2024-11-14 04:12:04,784 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:04,800 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:04,802 - ERROR - Error processing match 116: 'home_goals'
+2024-11-14 04:12:04,811 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:04,825 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:04,827 - ERROR - Error processing match 117: 'home_goals'
+2024-11-14 04:12:04,838 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:04,847 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:04,849 - ERROR - Error processing match 119: 'home_goals'
+2024-11-14 04:12:04,856 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:04,864 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:04,866 - ERROR - Error processing match 124: 'home_goals'
+2024-11-14 04:12:04,873 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:04,881 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:04,883 - ERROR - Error processing match 129: 'home_goals'
+2024-11-14 04:12:04,891 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:04,901 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:04,903 - ERROR - Error processing match 126: 'home_goals'
+2024-11-14 04:12:04,909 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:04,919 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:04,921 - ERROR - Error processing match 121: 'home_goals'
+2024-11-14 04:12:04,927 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:04,938 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:04,939 - ERROR - Error processing match 127: 'home_goals'
+2024-11-14 04:12:04,948 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:04,955 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:04,957 - ERROR - Error processing match 125: 'home_goals'
+2024-11-14 04:12:04,965 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:04,973 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:04,974 - ERROR - Error processing match 128: 'home_goals'
+2024-11-14 04:12:04,982 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:04,992 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:04,993 - ERROR - Error processing match 123: 'home_goals'
+2024-11-14 04:12:05,003 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:05,012 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:05,014 - ERROR - Error processing match 122: 'home_goals'
+2024-11-14 04:12:05,022 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:05,034 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:05,036 - ERROR - Error processing match 120: 'home_goals'
+2024-11-14 04:12:05,043 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:05,053 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:05,055 - ERROR - Error processing match 136: 'home_goals'
+2024-11-14 04:12:05,061 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:05,070 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:05,072 - ERROR - Error processing match 139: 'home_goals'
+2024-11-14 04:12:05,080 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:05,089 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:05,091 - ERROR - Error processing match 138: 'home_goals'
+2024-11-14 04:12:05,101 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:05,108 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:05,110 - ERROR - Error processing match 131: 'home_goals'
+2024-11-14 04:12:05,118 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:05,125 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:05,127 - ERROR - Error processing match 132: 'home_goals'
+2024-11-14 04:12:05,135 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:05,143 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:05,145 - ERROR - Error processing match 137: 'home_goals'
+2024-11-14 04:12:05,155 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:05,164 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:05,167 - ERROR - Error processing match 130: 'home_goals'
+2024-11-14 04:12:05,174 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:05,184 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:05,186 - ERROR - Error processing match 134: 'home_goals'
+2024-11-14 04:12:05,192 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:05,202 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:05,204 - ERROR - Error processing match 135: 'home_goals'
+2024-11-14 04:12:05,211 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:05,222 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:05,223 - ERROR - Error processing match 133: 'home_goals'
+2024-11-14 04:12:05,230 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:05,238 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:05,240 - ERROR - Error processing match 145: 'home_goals'
+2024-11-14 04:12:05,247 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:05,255 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:05,257 - ERROR - Error processing match 140: 'home_goals'
+2024-11-14 04:12:05,264 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:05,272 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:05,274 - ERROR - Error processing match 141: 'home_goals'
+2024-11-14 04:12:05,285 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:05,292 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:05,294 - ERROR - Error processing match 144: 'home_goals'
+2024-11-14 04:12:05,304 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:05,311 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:05,314 - ERROR - Error processing match 143: 'home_goals'
+2024-11-14 04:12:05,322 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:05,334 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:05,336 - ERROR - Error processing match 149: 'home_goals'
+2024-11-14 04:12:05,347 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:05,357 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:05,360 - ERROR - Error processing match 148: 'home_goals'
+2024-11-14 04:12:05,370 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:05,379 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:05,382 - ERROR - Error processing match 147: 'home_goals'
+2024-11-14 04:12:05,389 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:05,402 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:05,404 - ERROR - Error processing match 146: 'home_goals'
+2024-11-14 04:12:05,411 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:05,422 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:05,423 - ERROR - Error processing match 142: 'home_goals'
+2024-11-14 04:12:05,431 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:05,440 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:05,441 - ERROR - Error processing match 150: 'home_goals'
+2024-11-14 04:12:05,453 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:05,464 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:05,467 - ERROR - Error processing match 151: 'home_goals'
+2024-11-14 04:12:05,475 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:05,483 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:05,485 - ERROR - Error processing match 153: 'home_goals'
+2024-11-14 04:12:05,493 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:05,502 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:05,503 - ERROR - Error processing match 155: 'home_goals'
+2024-11-14 04:12:05,509 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:05,519 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:05,521 - ERROR - Error processing match 156: 'home_goals'
+2024-11-14 04:12:05,527 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:05,536 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:05,537 - ERROR - Error processing match 154: 'home_goals'
+2024-11-14 04:12:05,545 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:05,554 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:05,555 - ERROR - Error processing match 152: 'home_goals'
+2024-11-14 04:12:05,564 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:05,572 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:05,574 - ERROR - Error processing match 158: 'home_goals'
+2024-11-14 04:12:05,581 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:05,589 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:05,590 - ERROR - Error processing match 159: 'home_goals'
+2024-11-14 04:12:05,600 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:05,607 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:05,608 - ERROR - Error processing match 157: 'home_goals'
+2024-11-14 04:12:05,616 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:05,624 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:05,626 - ERROR - Error processing match 160: 'home_goals'
+2024-11-14 04:12:05,635 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:05,642 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:05,645 - ERROR - Error processing match 169: 'home_goals'
+2024-11-14 04:12:05,654 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:05,661 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:05,663 - ERROR - Error processing match 168: 'home_goals'
+2024-11-14 04:12:05,672 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:05,689 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:05,691 - ERROR - Error processing match 164: 'home_goals'
+2024-11-14 04:12:05,705 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:05,755 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:05,793 - ERROR - Error processing match 161: 'home_goals'
+2024-11-14 04:12:05,809 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:05,853 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:05,865 - ERROR - Error processing match 165: 'home_goals'
+2024-11-14 04:12:05,872 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:05,879 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:05,900 - ERROR - Error processing match 166: 'home_goals'
+2024-11-14 04:12:05,912 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:05,932 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:05,934 - ERROR - Error processing match 167: 'home_goals'
+2024-11-14 04:12:05,942 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:05,955 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:05,957 - ERROR - Error processing match 163: 'home_goals'
+2024-11-14 04:12:05,967 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:05,976 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:05,978 - ERROR - Error processing match 162: 'home_goals'
+2024-11-14 04:12:05,991 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:06,003 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:06,005 - ERROR - Error processing match 176: 'home_goals'
+2024-11-14 04:12:06,019 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:06,033 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:06,035 - ERROR - Error processing match 179: 'home_goals'
+2024-11-14 04:12:06,043 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:06,056 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:06,057 - ERROR - Error processing match 174: 'home_goals'
+2024-11-14 04:12:06,071 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:06,081 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:06,083 - ERROR - Error processing match 172: 'home_goals'
+2024-11-14 04:12:06,091 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:06,104 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:06,106 - ERROR - Error processing match 171: 'home_goals'
+2024-11-14 04:12:06,116 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:06,125 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:06,129 - ERROR - Error processing match 170: 'home_goals'
+2024-11-14 04:12:06,140 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:06,151 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:06,152 - ERROR - Error processing match 178: 'home_goals'
+2024-11-14 04:12:06,161 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:06,173 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:06,175 - ERROR - Error processing match 173: 'home_goals'
+2024-11-14 04:12:06,189 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:06,201 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:06,203 - ERROR - Error processing match 175: 'home_goals'
+2024-11-14 04:12:06,210 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:06,222 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:06,224 - ERROR - Error processing match 177: 'home_goals'
+2024-11-14 04:12:06,238 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:06,247 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:06,249 - ERROR - Error processing match 185: 'home_goals'
+2024-11-14 04:12:06,260 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:06,273 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:06,275 - ERROR - Error processing match 189: 'home_goals'
+2024-11-14 04:12:06,286 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:06,298 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:06,300 - ERROR - Error processing match 186: 'home_goals'
+2024-11-14 04:12:06,308 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:06,318 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:06,320 - ERROR - Error processing match 181: 'home_goals'
+2024-11-14 04:12:06,331 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:06,340 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:06,342 - ERROR - Error processing match 188: 'home_goals'
+2024-11-14 04:12:06,351 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:06,360 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:06,363 - ERROR - Error processing match 187: 'home_goals'
+2024-11-14 04:12:06,374 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:06,384 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:06,386 - ERROR - Error processing match 182: 'home_goals'
+2024-11-14 04:12:06,393 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:06,406 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:06,408 - ERROR - Error processing match 184: 'home_goals'
+2024-11-14 04:12:06,418 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:06,427 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:06,428 - ERROR - Error processing match 180: 'home_goals'
+2024-11-14 04:12:06,439 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:06,451 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:06,455 - ERROR - Error processing match 183: 'home_goals'
+2024-11-14 04:12:06,469 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:06,504 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:06,506 - ERROR - Error processing match 199: 'home_goals'
+2024-11-14 04:12:06,520 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:06,538 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:06,540 - ERROR - Error processing match 198: 'home_goals'
+2024-11-14 04:12:06,560 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:06,574 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:06,577 - ERROR - Error processing match 196: 'home_goals'
+2024-11-14 04:12:06,591 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:06,611 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:06,615 - ERROR - Error processing match 194: 'home_goals'
+2024-11-14 04:12:06,641 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:06,663 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:06,667 - ERROR - Error processing match 195: 'home_goals'
+2024-11-14 04:12:06,682 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:06,723 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:06,727 - ERROR - Error processing match 190: 'home_goals'
+2024-11-14 04:12:06,753 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:06,774 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:06,782 - ERROR - Error processing match 193: 'home_goals'
+2024-11-14 04:12:06,808 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:06,827 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:06,834 - ERROR - Error processing match 192: 'home_goals'
+2024-11-14 04:12:06,858 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:06,876 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:06,880 - ERROR - Error processing match 191: 'home_goals'
+2024-11-14 04:12:06,902 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:06,930 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:06,935 - ERROR - Error processing match 197: 'home_goals'
+2024-11-14 04:12:06,959 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:06,989 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:06,993 - ERROR - Error processing match 208: 'home_goals'
+2024-11-14 04:12:07,016 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:07,042 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:07,050 - ERROR - Error processing match 203: 'home_goals'
+2024-11-14 04:12:07,072 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:07,095 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:07,103 - ERROR - Error processing match 209: 'home_goals'
+2024-11-14 04:12:07,122 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:07,166 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:07,205 - ERROR - Error processing match 200: 'home_goals'
+2024-11-14 04:12:07,273 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:07,323 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:07,356 - ERROR - Error processing match 201: 'home_goals'
+2024-11-14 04:12:07,403 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:07,425 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:07,430 - ERROR - Error processing match 202: 'home_goals'
+2024-11-14 04:12:07,460 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:07,568 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:07,585 - ERROR - Error processing match 204: 'home_goals'
+2024-11-14 04:12:07,606 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:07,624 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:07,628 - ERROR - Error processing match 207: 'home_goals'
+2024-11-14 04:12:07,647 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:07,666 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:07,669 - ERROR - Error processing match 205: 'home_goals'
+2024-11-14 04:12:07,691 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:07,738 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:07,771 - ERROR - Error processing match 206: 'home_goals'
+2024-11-14 04:12:07,830 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:07,858 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:07,865 - ERROR - Error processing match 217: 'home_goals'
+2024-11-14 04:12:07,895 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:07,925 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:07,933 - ERROR - Error processing match 214: 'home_goals'
+2024-11-14 04:12:07,951 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:07,972 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:07,975 - ERROR - Error processing match 213: 'home_goals'
+2024-11-14 04:12:07,996 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:08,020 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:08,025 - ERROR - Error processing match 210: 'home_goals'
+2024-11-14 04:12:08,055 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:08,088 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:08,093 - ERROR - Error processing match 218: 'home_goals'
+2024-11-14 04:12:08,117 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:08,146 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:08,150 - ERROR - Error processing match 212: 'home_goals'
+2024-11-14 04:12:08,182 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:08,208 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:08,211 - ERROR - Error processing match 219: 'home_goals'
+2024-11-14 04:12:08,249 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:08,283 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:08,286 - ERROR - Error processing match 215: 'home_goals'
+2024-11-14 04:12:08,306 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:08,333 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:08,337 - ERROR - Error processing match 211: 'home_goals'
+2024-11-14 04:12:08,359 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:08,387 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:08,391 - ERROR - Error processing match 216: 'home_goals'
+2024-11-14 04:12:08,414 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:08,436 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:08,440 - ERROR - Error processing match 227: 'home_goals'
+2024-11-14 04:12:08,457 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:08,479 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:08,483 - ERROR - Error processing match 228: 'home_goals'
+2024-11-14 04:12:08,508 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:08,529 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:08,534 - ERROR - Error processing match 220: 'home_goals'
+2024-11-14 04:12:08,557 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:08,580 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:08,584 - ERROR - Error processing match 224: 'home_goals'
+2024-11-14 04:12:08,602 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:08,625 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:08,629 - ERROR - Error processing match 229: 'home_goals'
+2024-11-14 04:12:08,650 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:08,672 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:08,676 - ERROR - Error processing match 221: 'home_goals'
+2024-11-14 04:12:08,695 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:08,736 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:08,739 - ERROR - Error processing match 223: 'home_goals'
+2024-11-14 04:12:08,757 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:08,773 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:08,779 - ERROR - Error processing match 222: 'home_goals'
+2024-11-14 04:12:08,803 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:08,818 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:08,825 - ERROR - Error processing match 225: 'home_goals'
+2024-11-14 04:12:08,841 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:08,857 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:08,859 - ERROR - Error processing match 226: 'home_goals'
+2024-11-14 04:12:08,877 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:08,895 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:08,898 - ERROR - Error processing match 239: 'home_goals'
+2024-11-14 04:12:08,912 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:08,925 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:08,927 - ERROR - Error processing match 234: 'home_goals'
+2024-11-14 04:12:08,940 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:08,954 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:08,956 - ERROR - Error processing match 230: 'home_goals'
+2024-11-14 04:12:08,966 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:08,977 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:08,980 - ERROR - Error processing match 231: 'home_goals'
+2024-11-14 04:12:08,991 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:09,005 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:09,006 - ERROR - Error processing match 237: 'home_goals'
+2024-11-14 04:12:09,017 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:09,025 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:09,027 - ERROR - Error processing match 236: 'home_goals'
+2024-11-14 04:12:09,039 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:09,055 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:09,056 - ERROR - Error processing match 235: 'home_goals'
+2024-11-14 04:12:09,066 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:09,099 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:09,104 - ERROR - Error processing match 233: 'home_goals'
+2024-11-14 04:12:09,116 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:09,127 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:09,130 - ERROR - Error processing match 232: 'home_goals'
+2024-11-14 04:12:09,140 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:09,151 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:09,153 - ERROR - Error processing match 238: 'home_goals'
+2024-11-14 04:12:09,163 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:09,175 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:09,177 - ERROR - Error processing match 249: 'home_goals'
+2024-11-14 04:12:09,187 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:09,200 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:09,202 - ERROR - Error processing match 245: 'home_goals'
+2024-11-14 04:12:09,210 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:09,222 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:09,224 - ERROR - Error processing match 243: 'home_goals'
+2024-11-14 04:12:09,235 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:09,246 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:09,248 - ERROR - Error processing match 241: 'home_goals'
+2024-11-14 04:12:09,258 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:09,269 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:09,271 - ERROR - Error processing match 246: 'home_goals'
+2024-11-14 04:12:09,278 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:09,290 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:09,291 - ERROR - Error processing match 247: 'home_goals'
+2024-11-14 04:12:09,304 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:09,313 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:09,315 - ERROR - Error processing match 242: 'home_goals'
+2024-11-14 04:12:09,325 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:09,335 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:09,337 - ERROR - Error processing match 248: 'home_goals'
+2024-11-14 04:12:09,347 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:09,357 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:09,359 - ERROR - Error processing match 244: 'home_goals'
+2024-11-14 04:12:09,368 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:09,376 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:09,378 - ERROR - Error processing match 240: 'home_goals'
+2024-11-14 04:12:09,386 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:09,400 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:09,402 - ERROR - Error processing match 252: 'home_goals'
+2024-11-14 04:12:09,411 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:09,423 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:09,425 - ERROR - Error processing match 259: 'home_goals'
+2024-11-14 04:12:09,435 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:09,445 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:09,449 - ERROR - Error processing match 257: 'home_goals'
+2024-11-14 04:12:09,458 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:09,469 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:09,471 - ERROR - Error processing match 258: 'home_goals'
+2024-11-14 04:12:09,484 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:09,493 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:09,495 - ERROR - Error processing match 251: 'home_goals'
+2024-11-14 04:12:09,506 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:09,517 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:09,518 - ERROR - Error processing match 250: 'home_goals'
+2024-11-14 04:12:09,528 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:09,538 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:09,540 - ERROR - Error processing match 255: 'home_goals'
+2024-11-14 04:12:09,551 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:09,558 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:09,560 - ERROR - Error processing match 256: 'home_goals'
+2024-11-14 04:12:09,569 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:09,578 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:09,581 - ERROR - Error processing match 253: 'home_goals'
+2024-11-14 04:12:09,592 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:09,603 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:09,605 - ERROR - Error processing match 254: 'home_goals'
+2024-11-14 04:12:09,612 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:09,623 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:09,625 - ERROR - Error processing match 266: 'home_goals'
+2024-11-14 04:12:09,636 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:09,644 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:09,646 - ERROR - Error processing match 265: 'home_goals'
+2024-11-14 04:12:09,695 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:09,751 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:09,834 - ERROR - Error processing match 263: 'home_goals'
+2024-11-14 04:12:09,850 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:09,866 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:09,873 - ERROR - Error processing match 269: 'home_goals'
+2024-11-14 04:12:09,890 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:09,917 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:09,919 - ERROR - Error processing match 261: 'home_goals'
+2024-11-14 04:12:09,928 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:09,941 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:09,942 - ERROR - Error processing match 264: 'home_goals'
+2024-11-14 04:12:09,952 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:09,962 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:09,966 - ERROR - Error processing match 260: 'home_goals'
+2024-11-14 04:12:09,976 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:09,990 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:09,992 - ERROR - Error processing match 267: 'home_goals'
+2024-11-14 04:12:10,004 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:10,016 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:10,022 - ERROR - Error processing match 268: 'home_goals'
+2024-11-14 04:12:10,035 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:10,050 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:10,052 - ERROR - Error processing match 262: 'home_goals'
+2024-11-14 04:12:10,060 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:10,076 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:10,078 - ERROR - Error processing match 277: 'home_goals'
+2024-11-14 04:12:10,092 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:10,106 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:10,109 - ERROR - Error processing match 275: 'home_goals'
+2024-11-14 04:12:10,121 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:10,137 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:10,139 - ERROR - Error processing match 278: 'home_goals'
+2024-11-14 04:12:10,151 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:10,161 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:10,164 - ERROR - Error processing match 272: 'home_goals'
+2024-11-14 04:12:10,176 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:10,189 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:10,191 - ERROR - Error processing match 271: 'home_goals'
+2024-11-14 04:12:10,205 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:10,220 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:10,223 - ERROR - Error processing match 273: 'home_goals'
+2024-11-14 04:12:10,237 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:10,253 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:10,255 - ERROR - Error processing match 279: 'home_goals'
+2024-11-14 04:12:10,266 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:10,276 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:10,277 - ERROR - Error processing match 274: 'home_goals'
+2024-11-14 04:12:10,288 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:10,301 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:10,303 - ERROR - Error processing match 270: 'home_goals'
+2024-11-14 04:12:10,310 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:10,321 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:10,323 - ERROR - Error processing match 276: 'home_goals'
+2024-11-14 04:12:10,336 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:10,350 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:10,352 - ERROR - Error processing match 284: 'home_goals'
+2024-11-14 04:12:10,364 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:10,377 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:10,381 - ERROR - Error processing match 289: 'home_goals'
+2024-11-14 04:12:10,391 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:10,403 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:10,406 - ERROR - Error processing match 283: 'home_goals'
+2024-11-14 04:12:10,415 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:10,427 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:10,430 - ERROR - Error processing match 286: 'home_goals'
+2024-11-14 04:12:10,441 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:10,454 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:10,456 - ERROR - Error processing match 287: 'home_goals'
+2024-11-14 04:12:10,466 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:10,478 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:10,482 - ERROR - Error processing match 288: 'home_goals'
+2024-11-14 04:12:10,490 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:10,504 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:10,506 - ERROR - Error processing match 281: 'home_goals'
+2024-11-14 04:12:10,517 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:10,527 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:10,530 - ERROR - Error processing match 282: 'home_goals'
+2024-11-14 04:12:10,540 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:10,550 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:10,552 - ERROR - Error processing match 280: 'home_goals'
+2024-11-14 04:12:10,561 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:10,571 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:10,573 - ERROR - Error processing match 285: 'home_goals'
+2024-11-14 04:12:10,585 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:10,595 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:10,598 - ERROR - Error processing match 290: 'home_goals'
+2024-11-14 04:12:10,607 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:10,619 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:10,621 - ERROR - Error processing match 293: 'home_goals'
+2024-11-14 04:12:10,631 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:10,639 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:10,641 - ERROR - Error processing match 294: 'home_goals'
+2024-11-14 04:12:10,650 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:10,659 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:10,661 - ERROR - Error processing match 298: 'home_goals'
+2024-11-14 04:12:10,675 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:10,693 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:10,701 - ERROR - Error processing match 296: 'home_goals'
+2024-11-14 04:12:10,722 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:10,740 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:10,744 - ERROR - Error processing match 299: 'home_goals'
+2024-11-14 04:12:10,759 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:10,783 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:10,786 - ERROR - Error processing match 297: 'home_goals'
+2024-11-14 04:12:10,807 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:10,823 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:10,828 - ERROR - Error processing match 292: 'home_goals'
+2024-11-14 04:12:10,847 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:10,860 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:10,863 - ERROR - Error processing match 291: 'home_goals'
+2024-11-14 04:12:10,876 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:10,889 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:10,891 - ERROR - Error processing match 295: 'home_goals'
+2024-11-14 04:12:10,906 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:10,918 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:10,920 - ERROR - Error processing match 305: 'home_goals'
+2024-11-14 04:12:10,933 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:10,947 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:10,951 - ERROR - Error processing match 300: 'home_goals'
+2024-11-14 04:12:10,961 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:10,976 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:10,979 - ERROR - Error processing match 302: 'home_goals'
+2024-11-14 04:12:10,991 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:11,006 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:11,008 - ERROR - Error processing match 303: 'home_goals'
+2024-11-14 04:12:11,023 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:11,036 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:11,038 - ERROR - Error processing match 304: 'home_goals'
+2024-11-14 04:12:11,051 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:11,060 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:11,063 - ERROR - Error processing match 308: 'home_goals'
+2024-11-14 04:12:11,075 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:11,087 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:11,089 - ERROR - Error processing match 306: 'home_goals'
+2024-11-14 04:12:11,106 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:11,120 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:11,122 - ERROR - Error processing match 309: 'home_goals'
+2024-11-14 04:12:11,135 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:11,146 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:11,149 - ERROR - Error processing match 301: 'home_goals'
+2024-11-14 04:12:11,159 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:11,171 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:11,174 - ERROR - Error processing match 307: 'home_goals'
+2024-11-14 04:12:11,190 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:11,209 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:11,212 - ERROR - Error processing match 313: 'home_goals'
+2024-11-14 04:12:11,227 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:11,245 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:11,249 - ERROR - Error processing match 312: 'home_goals'
+2024-11-14 04:12:11,261 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:11,285 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:11,288 - ERROR - Error processing match 310: 'home_goals'
+2024-11-14 04:12:11,309 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:11,331 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:11,334 - ERROR - Error processing match 315: 'home_goals'
+2024-11-14 04:12:11,355 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:11,378 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:11,384 - ERROR - Error processing match 316: 'home_goals'
+2024-11-14 04:12:11,392 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:11,410 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:11,415 - ERROR - Error processing match 311: 'home_goals'
+2024-11-14 04:12:11,432 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:11,447 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:11,450 - ERROR - Error processing match 318: 'home_goals'
+2024-11-14 04:12:11,463 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:11,482 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:11,485 - ERROR - Error processing match 319: 'home_goals'
+2024-11-14 04:12:11,501 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:11,517 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:11,520 - ERROR - Error processing match 317: 'home_goals'
+2024-11-14 04:12:11,535 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:11,558 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:11,560 - ERROR - Error processing match 314: 'home_goals'
+2024-11-14 04:12:11,576 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:11,595 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:11,600 - ERROR - Error processing match 324: 'home_goals'
+2024-11-14 04:12:11,620 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:11,639 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:11,642 - ERROR - Error processing match 320: 'home_goals'
+2024-11-14 04:12:11,663 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:11,683 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:11,687 - ERROR - Error processing match 323: 'home_goals'
+2024-11-14 04:12:11,705 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:11,728 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:11,734 - ERROR - Error processing match 326: 'home_goals'
+2024-11-14 04:12:11,754 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:11,769 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:11,772 - ERROR - Error processing match 328: 'home_goals'
+2024-11-14 04:12:11,788 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:11,804 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:11,806 - ERROR - Error processing match 322: 'home_goals'
+2024-11-14 04:12:11,821 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:11,838 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:11,840 - ERROR - Error processing match 327: 'home_goals'
+2024-11-14 04:12:11,852 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:11,868 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:11,871 - ERROR - Error processing match 329: 'home_goals'
+2024-11-14 04:12:11,885 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:11,900 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:11,903 - ERROR - Error processing match 325: 'home_goals'
+2024-11-14 04:12:11,916 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:11,930 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:11,933 - ERROR - Error processing match 321: 'home_goals'
+2024-11-14 04:12:11,947 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:11,961 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:11,964 - ERROR - Error processing match 330: 'home_goals'
+2024-11-14 04:12:11,977 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:11,991 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:11,993 - ERROR - Error processing match 332: 'home_goals'
+2024-11-14 04:12:12,005 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:12,019 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:12,021 - ERROR - Error processing match 337: 'home_goals'
+2024-11-14 04:12:12,038 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:12,052 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:12,055 - ERROR - Error processing match 339: 'home_goals'
+2024-11-14 04:12:12,069 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:12,082 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:12,089 - ERROR - Error processing match 334: 'home_goals'
+2024-11-14 04:12:12,106 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:12,131 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:12,133 - ERROR - Error processing match 335: 'home_goals'
+2024-11-14 04:12:12,149 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:12,165 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:12,167 - ERROR - Error processing match 331: 'home_goals'
+2024-11-14 04:12:12,182 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:12,194 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:12,198 - ERROR - Error processing match 338: 'home_goals'
+2024-11-14 04:12:12,212 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:12,231 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:12,234 - ERROR - Error processing match 333: 'home_goals'
+2024-11-14 04:12:12,250 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:12,264 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:12,267 - ERROR - Error processing match 336: 'home_goals'
+2024-11-14 04:12:12,282 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:12,297 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:12,299 - ERROR - Error processing match 347: 'home_goals'
+2024-11-14 04:12:12,312 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:12,326 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:12,331 - ERROR - Error processing match 343: 'home_goals'
+2024-11-14 04:12:12,350 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:12,368 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:12,372 - ERROR - Error processing match 349: 'home_goals'
+2024-11-14 04:12:12,392 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:12,407 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:12,410 - ERROR - Error processing match 348: 'home_goals'
+2024-11-14 04:12:12,426 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:12,442 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:12,444 - ERROR - Error processing match 346: 'home_goals'
+2024-11-14 04:12:12,461 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:12,476 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:12,482 - ERROR - Error processing match 340: 'home_goals'
+2024-11-14 04:12:12,501 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:12,520 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:12,523 - ERROR - Error processing match 341: 'home_goals'
+2024-11-14 04:12:12,536 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:12,550 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:12,552 - ERROR - Error processing match 345: 'home_goals'
+2024-11-14 04:12:12,564 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:12,579 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:12,582 - ERROR - Error processing match 342: 'home_goals'
+2024-11-14 04:12:12,595 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:12,611 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:12,614 - ERROR - Error processing match 344: 'home_goals'
+2024-11-14 04:12:12,626 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:12,642 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:12,645 - ERROR - Error processing match 351: 'home_goals'
+2024-11-14 04:12:12,666 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:12,685 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:12,692 - ERROR - Error processing match 356: 'home_goals'
+2024-11-14 04:12:12,708 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:12,724 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:12,727 - ERROR - Error processing match 357: 'home_goals'
+2024-11-14 04:12:12,751 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:12,773 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:12,777 - ERROR - Error processing match 359: 'home_goals'
+2024-11-14 04:12:12,790 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:12,802 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:12,804 - ERROR - Error processing match 352: 'home_goals'
+2024-11-14 04:12:12,815 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:12,828 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:12,831 - ERROR - Error processing match 354: 'home_goals'
+2024-11-14 04:12:12,844 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:12,857 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:12,859 - ERROR - Error processing match 350: 'home_goals'
+2024-11-14 04:12:12,873 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:12,887 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:12,888 - ERROR - Error processing match 355: 'home_goals'
+2024-11-14 04:12:12,900 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:12,910 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:12,912 - ERROR - Error processing match 353: 'home_goals'
+2024-11-14 04:12:12,924 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:12,941 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:12,944 - ERROR - Error processing match 358: 'home_goals'
+2024-11-14 04:12:12,955 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:12,967 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:12,969 - ERROR - Error processing match 369: 'home_goals'
+2024-11-14 04:12:12,978 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:12,990 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:12,992 - ERROR - Error processing match 368: 'home_goals'
+2024-11-14 04:12:13,003 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:13,011 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:13,014 - ERROR - Error processing match 360: 'home_goals'
+2024-11-14 04:12:13,023 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:13,035 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:13,037 - ERROR - Error processing match 367: 'home_goals'
+2024-11-14 04:12:13,043 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:13,053 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:13,055 - ERROR - Error processing match 362: 'home_goals'
+2024-11-14 04:12:13,061 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:13,071 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:13,073 - ERROR - Error processing match 363: 'home_goals'
+2024-11-14 04:12:13,085 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:13,097 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:13,100 - ERROR - Error processing match 364: 'home_goals'
+2024-11-14 04:12:13,107 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:13,117 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:13,118 - ERROR - Error processing match 365: 'home_goals'
+2024-11-14 04:12:13,125 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:13,136 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:13,138 - ERROR - Error processing match 366: 'home_goals'
+2024-11-14 04:12:13,147 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:13,157 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:13,159 - ERROR - Error processing match 361: 'home_goals'
+2024-11-14 04:12:13,170 - WARNING - Invalid feature count for Newcastle: 19
+2024-11-14 04:12:13,182 - WARNING - Invalid feature count for Brentford: 19
+2024-11-14 04:12:13,184 - ERROR - Error processing match 376: 'home_goals'
+2024-11-14 04:12:13,193 - WARNING - Invalid feature count for Arsenal: 19
+2024-11-14 04:12:13,218 - WARNING - Invalid feature count for Aston Villa: 19
+2024-11-14 04:12:13,256 - ERROR - Error processing match 370: 'home_goals'
+2024-11-14 04:12:13,292 - WARNING - Invalid feature count for Burnley: 19
+2024-11-14 04:12:13,358 - WARNING - Invalid feature count for Wolves: 19
+2024-11-14 04:12:13,360 - ERROR - Error processing match 378: 'home_goals'
+2024-11-14 04:12:13,374 - WARNING - Invalid feature count for Bournemouth: 19
+2024-11-14 04:12:13,403 - WARNING - Invalid feature count for Luton: 19
+2024-11-14 04:12:13,410 - ERROR - Error processing match 372: 'home_goals'
+2024-11-14 04:12:13,420 - WARNING - Invalid feature count for Liverpool: 19
+2024-11-14 04:12:13,433 - WARNING - Invalid feature count for Crystal Palace: 19
+2024-11-14 04:12:13,435 - ERROR - Error processing match 377: 'home_goals'
+2024-11-14 04:12:13,443 - WARNING - Invalid feature count for Chelsea: 19
+2024-11-14 04:12:13,455 - WARNING - Invalid feature count for Everton: 19
+2024-11-14 04:12:13,457 - ERROR - Error processing match 373: 'home_goals'
+2024-11-14 04:12:13,467 - WARNING - Invalid feature count for West Ham: 19
+2024-11-14 04:12:13,476 - WARNING - Invalid feature count for Tottenham: 19
+2024-11-14 04:12:13,478 - ERROR - Error processing match 379: 'home_goals'
+2024-11-14 04:12:13,487 - WARNING - Invalid feature count for Man United: 19
+2024-11-14 04:12:13,497 - WARNING - Invalid feature count for Nottingham Forest: 19
+2024-11-14 04:12:13,500 - ERROR - Error processing match 375: 'home_goals'
+2024-11-14 04:12:13,510 - WARNING - Invalid feature count for Man City: 19
+2024-11-14 04:12:13,521 - WARNING - Invalid feature count for Fulham: 19
+2024-11-14 04:12:13,523 - ERROR - Error processing match 374: 'home_goals'
+2024-11-14 04:12:13,534 - WARNING - Invalid feature count for Brighton: 19
+2024-11-14 04:12:13,543 - WARNING - Invalid feature count for Sheffield United: 19
+2024-11-14 04:12:13,545 - ERROR - Error processing match 371: 'home_goals'
+2024-11-14 04:12:13,547 - ERROR - Error during backtest execution: No valid features were generated. Check your data and feature calculation logic.

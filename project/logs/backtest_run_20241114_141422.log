@@ -1,0 +1,16 @@
+2024-11-14 14:14:22,263 - INFO - Starting EPL backtesting system
+2024-11-14 14:14:22,565 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 14:14:22,608 - INFO - Initialized base algorithm
+2024-11-14 14:14:22,611 - INFO - Created neural wrapper
+2024-11-14 14:14:22,644 - INFO - Processing 380 matches
+2024-11-14 14:14:34,716 - INFO - Successfully processed 370 matches
+2024-11-14 14:14:43,449 - WARNING - From c:\Users\HARIT\QuantLearning\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-11-14 14:14:45,250 - INFO - Model built successfully with input shape: (40,)
+2024-11-14 14:14:45,274 - INFO - Starting enhanced model training...
+2024-11-14 14:15:49,677 - INFO - Validation Loss: 0.2869, Validation Accuracy: 1.0000
+2024-11-14 14:15:49,696 - INFO - Model training completed
+2024-11-14 14:15:50,780 - INFO - Model validation passed
+2024-11-14 14:15:50,782 - INFO - Backtester initialized
+2024-11-14 14:15:50,784 - INFO - Starting backtest...
+2024-11-14 14:15:51,193 - ERROR - Error during backtest execution: invalid index to scalar variable.

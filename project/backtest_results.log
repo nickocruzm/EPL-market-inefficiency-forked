@@ -1,0 +1,3 @@
+2024-11-14 14:15:50,782 - INFO - Backtester initialized
+2024-11-14 14:15:50,784 - INFO - Starting backtest...
+2024-11-14 14:15:51,193 - ERROR - Error during backtest execution: invalid index to scalar variable.

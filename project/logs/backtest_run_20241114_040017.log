@@ -1,0 +1,5 @@
+2024-11-14 04:00:17,537 - INFO - Starting EPL backtesting system
+2024-11-14 04:00:17,562 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 04:00:17,567 - INFO - Initialized base algorithm
+2024-11-14 04:00:17,568 - INFO - Created neural wrapper
+2024-11-14 04:00:17,569 - ERROR - Error during backtest execution: initialize_and_train_model() got an unexpected keyword argument 'matches_df'

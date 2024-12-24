@@ -1,0 +1,5 @@
+2024-11-14 04:09:17,877 - INFO - Starting EPL backtesting system
+2024-11-14 04:09:17,893 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 04:09:17,896 - INFO - Initialized base algorithm
+2024-11-14 04:09:17,897 - INFO - Created neural wrapper
+2024-11-14 04:09:22,902 - ERROR - Error during backtest execution: No valid features were generated. Check your data and feature calculation logic.

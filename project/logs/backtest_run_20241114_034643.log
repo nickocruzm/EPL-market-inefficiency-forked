@@ -1,0 +1,5 @@
+2024-11-14 03:46:43,942 - INFO - Starting EPL backtesting system
+2024-11-14 03:46:43,969 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 03:46:43,973 - INFO - Initialized base algorithm
+2024-11-14 03:46:43,976 - INFO - Created neural wrapper
+2024-11-14 03:46:44,131 - ERROR - Error during backtest execution: tuple indices must be integers or slices, not str

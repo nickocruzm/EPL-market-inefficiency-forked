@@ -1,0 +1,5 @@
+2024-11-14 03:53:12,395 - INFO - Starting EPL backtesting system
+2024-11-14 03:53:12,412 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 03:53:12,415 - INFO - Initialized base algorithm
+2024-11-14 03:53:12,416 - INFO - Created neural wrapper
+2024-11-14 03:53:12,493 - ERROR - Error during backtest execution: index 5 is out of bounds for axis 0 with size 1

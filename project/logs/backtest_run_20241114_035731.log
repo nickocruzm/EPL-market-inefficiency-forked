@@ -1,0 +1,5 @@
+2024-11-14 03:57:31,097 - INFO - Starting EPL backtesting system
+2024-11-14 03:57:31,139 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 03:57:31,146 - INFO - Initialized base algorithm
+2024-11-14 03:57:31,149 - INFO - Created neural wrapper
+2024-11-14 03:57:41,777 - ERROR - Error during backtest execution: name 'tf' is not defined

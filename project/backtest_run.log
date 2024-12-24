@@ -1,0 +1,9 @@
+2024-11-14 01:57:24,288 - INFO - Starting EPL backtesting system
+2024-11-14 01:57:24,300 - ERROR - Error during backtest execution: [Errno 2] No such file or directory: 'epl_matches_2024_25.csv'
+2024-11-14 01:58:39,378 - INFO - Starting EPL backtesting system
+2024-11-14 01:58:39,383 - ERROR - Error during backtest execution: [Errno 2] No such file or directory: 'epl_matches_2024_25.csv'
+2024-11-14 01:59:46,810 - INFO - Starting EPL backtesting system
+2024-11-14 01:59:46,870 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 01:59:46,880 - INFO - Initialized base algorithm
+2024-11-14 01:59:46,886 - INFO - Created neural wrapper
+2024-11-14 01:59:46,893 - ERROR - Error during backtest execution: 'BaseAlgorithm' object has no attribute 'historical_odds'

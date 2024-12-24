@@ -1,0 +1,5 @@
+2024-11-14 03:51:09,164 - INFO - Starting EPL backtesting system
+2024-11-14 03:51:09,182 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 03:51:09,184 - INFO - Initialized base algorithm
+2024-11-14 03:51:09,185 - INFO - Created neural wrapper
+2024-11-14 03:51:09,345 - ERROR - Error during backtest execution: 'tuple' object has no attribute 'home_team'

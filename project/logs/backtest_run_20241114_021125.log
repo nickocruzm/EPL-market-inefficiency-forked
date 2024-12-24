@@ -1,0 +1,5 @@
+2024-11-14 02:11:25,748 - INFO - Starting EPL backtesting system
+2024-11-14 02:11:25,790 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 02:11:25,812 - INFO - Initialized base algorithm
+2024-11-14 02:11:25,814 - INFO - Created neural wrapper
+2024-11-14 02:11:25,826 - ERROR - Error during backtest execution: 'BaseAlgorithm' object has no attribute 'historical_odds'

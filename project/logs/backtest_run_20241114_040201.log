@@ -1,0 +1,7 @@
+2024-11-14 04:02:01,301 - INFO - Starting EPL backtesting system
+2024-11-14 04:02:01,344 - INFO - Loaded 380 matches and 380 odds records
+2024-11-14 04:02:01,360 - INFO - Initialized base algorithm
+2024-11-14 04:02:01,362 - INFO - Created neural wrapper
+2024-11-14 04:02:14,997 - ERROR - Error during backtest execution: Expected 2D array, got 1D array instead:
+array=[].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
