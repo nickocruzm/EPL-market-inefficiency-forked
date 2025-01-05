@@ -100,11 +100,34 @@ self.match_results
   - matches_df: pandas.DataFrame
   - odds_df: pandas.DataFrame
 
-for each
+
 1. Match Dataframe is sorted chronologically by 'date'.
 2. Iterate through all the matches in the dataframe.
-  - create a matchDate 
+  - create a `match_date` list (series?) that holds the dates of matches as datetime objects.
+  - `_calculate_advanced_team_stats()` is called twice, first time is called to return features for the home team. The second time it is called is to return features for the away team.
 
+  - if there are features inside of home AND away then:
+    - both home and away sets of features are combined and placed into a features list
+    - home_score and away_score are assigned float values.
+    - home_score and away_score are then used to determine the results of the match.
+      - 0,1,2
+      - 0: Home win
+      - 1: Draw
+      - 2: Away win
+    - labels list is appened with the result.
+    - number of valid matches is incremented by 1.
+    - Start the second iteration.
+
+  3. Check if any of the matches are valid.
+  4. Convert features: list -> np.array
+  5. convert labels: list -> np.array
+  6. Set up data to build and train model
+   - Split up arrays into training and testing datasets.
+   - X-train features are scaled 
+   - X-test are scaled
+   - y train and test are converted to categorical data
+
+  7. Build then Train enhanced model, return trained model.
 
 
 
