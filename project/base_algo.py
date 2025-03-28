@@ -13,7 +13,7 @@ class BaseAlgorithm:
         self.historical_odds = odds_df
         self.match_results = matches_df.copy()
         self.match_results['date'] = pd.to_datetime(self.match_results['date'])
-        
+       
     def get_team_stats(self, team_name: str, before_date: datetime, lookback_days: int = 90) -> dict:
         """
         Calculate basic team statistics for given timeframe
@@ -26,7 +26,9 @@ class BaseAlgorithm:
         Returns:
             Dictionary containing team statistics
         """
+        
         start_date = before_date - timedelta(days=lookback_days)
+        
         
         # Filter matches for the team within the timeframe
         team_matches = self.match_results[

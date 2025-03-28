@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 import logging
 
-def initialize_and_train_model(matches_df, odds_df, wrapper, test_size=0.2):
+def initialize_and_train_model(matches_df: pd.DataFrame, odds_df: pd.DataFrame, wrapper, test_size=0.2):
     """Initialize and train the betting model with historical data"""
     logger = logging.getLogger(__name__)
     
@@ -16,6 +16,7 @@ def initialize_and_train_model(matches_df, odds_df, wrapper, test_size=0.2):
     labels = []
     valid_matches = 0
     
+
     for idx, match in matches_df.iterrows():
         try:
             match_date = pd.to_datetime(match['date'])
@@ -44,8 +45,10 @@ def initialize_and_train_model(matches_df, odds_df, wrapper, test_size=0.2):
                 valid_matches += 1
                 
         except Exception as e:
+            
             logger.warning(f"Error processing match {idx}: {str(e)}")
             continue
+    
     
     if valid_matches == 0:
         raise ValueError("No valid features were generated. Check your data and feature calculation logic.")

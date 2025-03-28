@@ -1,7 +1,6 @@
 # Explanation:
 
 ## main.py
-
 1. Data is loaded into `matches_df` and `odds_df`
 2. BaseAlgorithm class is initialized 
 3. AdvancedBettingNeuralWrapper object initialized using the base algorithm class and the following arguments:
@@ -165,9 +164,5 @@ self.match_results
       ((self.match_results['home_team'] == team_name) |
         (self.match_results['away_team'] == team_name))
   ]
-
-
-
-
 
 ```

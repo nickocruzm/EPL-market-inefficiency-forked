@@ -44,8 +44,10 @@ def load_and_prepare_data(matches_path: str, odds_path: str) -> Tuple[pd.DataFra
     Returns:
         Tuple of (matches_df, odds_df)
     """
+    print(os.getcwd())
+    
     # Ensure data directory exists
-    data_dir = Path('data')
+    data_dir = Path('project/data')
     matches_full_path = data_dir / matches_path
     odds_full_path = data_dir / odds_path
     
@@ -148,6 +150,7 @@ def main():
             min_confidence=0.6,
             max_bet_size=0.1
         )
+        
         logger.info("Created neural wrapper")
         
         # Initialize and train model
@@ -157,10 +160,11 @@ def main():
             wrapper=wrapper,
             test_size=0.2
         )
+        
         logger.info("Model training completed")
         
         # Validate model output
-        sample_features = wrapper._calculate_advanced_team_stats("Arsenal", pd.Timestamp("2023-01-01"))
+        sample_features = wrapper._calculate_advanced_team_stats("liverpool", pd.Timestamp("2023-01-01"))
         if validate_model_output(wrapper, sample_features.reshape(1, -1)):
             logger.info("Model validation passed")
         
@@ -169,6 +173,8 @@ def main():
             betting_model=wrapper,
             initial_bankroll=10000,
         )
+        
+                
         logger.info("Backtester initialized")
         
         # Run backtest

@@ -14,15 +14,17 @@ import seaborn as sns
 
 class AdvancedBettingNeuralWrapper:
     def __init__(self, base_algorithm, initial_bankroll=10000, min_confidence=0.6, max_bet_size=0.1):
-        """
-        Initialize the advanced betting neural wrapper
         
-        Args:
-            base_algorithm: BaseAlgorithm instance for data processing
-            initial_bankroll: Starting bankroll amount
-            min_confidence: Minimum confidence threshold for placing bets
-            max_bet_size: Maximum bet size as fraction of bankroll
         """
+            Initialize the advanced betting neural wrapper
+            
+            Args:
+                base_algorithm: BaseAlgorithm instance for data processing
+                initial_bankroll: Starting bankroll amount
+                min_confidence: Minimum confidence threshold for placing bets
+                max_bet_size: Maximum bet size as fraction of bankroll
+        """
+        
         self.algo = base_algorithm
         self.initial_bankroll = initial_bankroll
         self.min_confidence = min_confidence
@@ -85,9 +87,11 @@ class AdvancedBettingNeuralWrapper:
             console_handler.setFormatter(formatter)
             
             self.logger.addHandler(file_handler)
-            self.logger.addHandler(console_handler)
+            self.logger.addHandler(console_handler)            
+
     def _calculate_advanced_team_stats(self, team, date, lookback=10):
-        """Enhanced team statistics with advanced metrics"""
+        """ Enhanced team statistics with advanced metrics. """
+        
         try:
             if (team, date) in self.feature_cache:
                 return self.feature_cache[(team, date)]
@@ -186,7 +190,9 @@ class AdvancedBettingNeuralWrapper:
             return np.zeros(20)
 
     def calculate_streak(self, results):
+        
         """Calculate current streak with error handling"""
+        
         if not results:
             return 0
         streak = 0
@@ -200,7 +206,9 @@ class AdvancedBettingNeuralWrapper:
         return streak
 
     def calculate_volatility(self, values):
+        
         """Calculate volatility with error handling"""
+        
         if len(values) < 2:
             return 0
         try:

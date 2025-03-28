@@ -39,7 +39,9 @@ class PaperTrader:
         self.trades.append(trade)
         self.logger.info(f"Trade executed - Match: {match_id}, Result: {'Won' if won else 'Lost'}")
         return trade
-
+    
+    
+    
     def calculate_bet_size(self, confidence):
         return self.current_capital * 0.02  # Example: 2% of current capital
 
