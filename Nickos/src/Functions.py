@@ -2,35 +2,33 @@ import torch
 import numpy as np
 import pandas as pd
 
-def getDraws(y_train_res, y_test):
-    train_draw_count = y_train_res.value_counts()[1]
-    test_draw_count = y_test.value_counts()[1]
+def getDraws(y_train, y_test):
+    y_train_draw_count = y_train.value_counts()[1]
+    y_test_draw_count = y_test.value_counts()[1]
 
-    training_total_draws = y_train.shape[0]
-    testing_total_draws = y_test.shape[0]
+    y_training_size= y_train.shape[0]
+    y_testing_size = y_test.shape[0]
 
-    training_draw_percentage = round( (train_draw_count / training_total_draws) * 100 )
-    testing_draw_percentage = round( (test_draw_count / testing_total_draws) * 100 )
+    y_training_draw_percentage = round( (y_train_draw_count / y_training_size) * 100 )
+    y_testing_draw_percentage = round( (y_test_draw_count / y_testing_size) * 100 )
 
 
-    training_output = f"""TRAINING:
-        \n\t Features shape: {X_train_res.shape} 
-        \t Test shape : {y_train_res.shape} 
-        \t Draw-Count: { y_train_res.value_counts()[1]}
-        \t Draw-Percentage: {training_draw_percentage}% \n
+    y_training_output = f"""TRAINING:
+        \t Draw-Count: { y_train.value_counts()[1]}
+        \t Draw-Percentage: {y_training_draw_percentage}% \n
+        \t Decisive-Match %: { round( (y_train.value_counts()[0] / y_training_size) * 100) }%
     """
     
-    testing_output = f"""TESTING:
-        \n\t Features shape: {X_test.shape} 
-        \t Test shape: {y_test.shape}
+    y_testing_output = f"""TESTING:
         \t Draw-Count: {y_test.value_counts()[1]}
-        \t  Draw-Percentage: {testing_draw_percentage}% \n
+        \t Draw-Percentage: {y_testing_draw_percentage}% \n
+        \t Decisive-Match %: { round( (y_test.value_counts()[0] / y_testing_size) * 100) }%
     """
     
-    print(training_output)
-    print(testing_output)
+    print(y_training_output)
+    print(y_testing_output)
     
-    return training_draw_percentage, testing_draw_percentage
+    return y_training_draw_percentage, y_testing_draw_percentage
 
 
 def create_favorites(df):
@@ -56,7 +54,6 @@ def construct_dataset(DataPath):
     df = pd.merge(matches, odds, on='match_id', how='inner')
     df.columns = df.columns.str.strip().str.replace(' ', '')
     df = create_favorites(df)
-    print(df)
     return df
 
 
@@ -93,9 +90,8 @@ def min_max_normalization(matrix):
     
     ft_mins, _ = torch.min(matrix, dim=0)
     ft_max, _ = torch.max(matrix, dim=0)
-    # print(ft_mins, ft_max)
     
-    # norm will be updated later and ultimately returned.
+    # norm: the normalized matrix that is returned.
     norm = matrix
     
     # number of rows
