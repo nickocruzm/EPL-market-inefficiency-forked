@@ -1,0 +1,11 @@
+.vscode/launch.json
+.venv/
+
+Nickos/__pycache__/
+Nickos/logs.md
+Nickos/MeetingNotes.md
+Nickos/src/__pycache__/*
+
+scratch*
+.wakatime-project
+
