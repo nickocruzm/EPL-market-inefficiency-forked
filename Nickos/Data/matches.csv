@@ -1,0 +1,371 @@
+match_id,date,home_team,away_team,result
+EPL2425_001,2024-08-10,Arsenal,Newcastle,0
+EPL2425_002,2024-08-10,Aston Villa,Brighton,0
+EPL2425_003,2024-08-10,Bournemouth,Wolves,2
+EPL2425_004,2024-08-10,Burnley,Man United,2
+EPL2425_005,2024-08-10,Chelsea,Crystal Palace,0
+EPL2425_006,2024-08-10,Everton,West Ham,1
+EPL2425_007,2024-08-10,Liverpool,Brentford,0
+EPL2425_008,2024-08-10,Luton,Sheffield United,2
+EPL2425_009,2024-08-10,Man City,Nottingham Forest,0
+EPL2425_010,2024-08-10,Tottenham,Fulham,0
+EPL2425_011,2024-08-17,Brentford,Arsenal,2
+EPL2425_012,2024-08-17,Brighton,Chelsea,0
+EPL2425_013,2024-08-17,Crystal Palace,Burnley,1
+EPL2425_014,2024-08-17,Fulham,Man City,2
+EPL2425_015,2024-08-17,Man United,Aston Villa,1
+EPL2425_016,2024-08-17,Newcastle,Everton,0
+EPL2425_017,2024-08-17,Nottingham Forest,Bournemouth,1
+EPL2425_018,2024-08-17,Sheffield United,Liverpool,2
+EPL2425_019,2024-08-17,West Ham,Tottenham,1
+EPL2425_020,2024-08-17,Wolves,Luton,0
+EPL2425_021,2024-08-24,Arsenal,West Ham,0
+EPL2425_022,2024-08-24,Aston Villa,Newcastle,1
+EPL2425_023,2024-08-24,Bournemouth,Sheffield United,0
+EPL2425_024,2024-08-24,Burnley,Wolves,2
+EPL2425_025,2024-08-24,Chelsea,Man United,1
+EPL2425_026,2024-08-24,Everton,Crystal Palace,0
+EPL2425_027,2024-08-24,Liverpool,Fulham,0
+EPL2425_028,2024-08-24,Luton,Brentford,2
+EPL2425_029,2024-08-24,Man City,Brighton,0
+EPL2425_030,2024-08-24,Tottenham,Nottingham Forest,0
+EPL2425_031,2024-08-31,Brentford,Man City,2
+EPL2425_032,2024-08-31,Brighton,Liverpool,1
+EPL2425_033,2024-08-31,Crystal Palace,Aston Villa,1
+EPL2425_034,2024-08-31,Fulham,Chelsea,2
+EPL2425_035,2024-08-31,Man United,Tottenham,0
+EPL2425_036,2024-08-31,Newcastle,Bournemouth,0
+EPL2425_037,2024-08-31,Nottingham Forest,Arsenal,2
+EPL2425_038,2024-08-31,Sheffield United,Burnley,2
+EPL2425_039,2024-08-31,West Ham,Luton,0
+EPL2425_040,2024-08-31,Wolves,Everton,1
+EPL2425_041,2024-09-14,Arsenal,Man United,0
+EPL2425_042,2024-09-14,Aston Villa,West Ham,0
+EPL2425_043,2024-09-14,Bournemouth,Crystal Palace,1
+EPL2425_044,2024-09-14,Burnley,Newcastle,2
+EPL2425_045,2024-09-14,Chelsea,Sheffield United,0
+EPL2425_046,2024-09-14,Everton,Nottingham Forest,1
+EPL2425_047,2024-09-14,Liverpool,Wolves,0
+EPL2425_048,2024-09-14,Luton,Brighton,2
+EPL2425_049,2024-09-14,Man City,Tottenham,1
+EPL2425_050,2024-09-14,Fulham,Brentford,0
+EPL2425_051,2024-09-21,Brentford,Burnley,0
+EPL2425_052,2024-09-21,Brighton,Aston Villa,1
+EPL2425_053,2024-09-21,Crystal Palace,Man City,2
+EPL2425_054,2024-09-21,Man United,Luton,0
+EPL2425_055,2024-09-21,Newcastle,Liverpool,1
+EPL2425_056,2024-09-21,Nottingham Forest,Chelsea,2
+EPL2425_057,2024-09-21,Sheffield United,Arsenal,2
+EPL2425_058,2024-09-21,Tottenham,Everton,0
+EPL2425_059,2024-09-21,West Ham,Bournemouth,0
+EPL2425_060,2024-09-21,Wolves,Fulham,1
+EPL2425_061,2024-09-28,Arsenal,Brighton,0
+EPL2425_062,2024-09-28,Aston Villa,Sheffield United,0
+EPL2425_063,2024-09-28,Bournemouth,Man United,2
+EPL2425_064,2024-09-28,Burnley,West Ham,1
+EPL2425_065,2024-09-28,Chelsea,Wolves,0
+EPL2425_066,2024-09-28,Everton,Brentford,1
+EPL2425_067,2024-09-28,Liverpool,Crystal Palace,0
+EPL2425_068,2024-09-28,Luton,Nottingham Forest,2
+EPL2425_069,2024-09-28,Man City,Newcastle,1
+EPL2425_070,2024-09-28,Tottenham,Fulham,0
+EPL2425_071,2024-10-05,Brentford,Tottenham,2
+EPL2425_072,2024-10-05,Brighton,Burnley,0
+EPL2425_073,2024-10-05,Crystal Palace,Arsenal,1
+EPL2425_074,2024-10-05,Fulham,Aston Villa,2
+EPL2425_075,2024-10-05,Man United,Liverpool,1
+EPL2425_076,2024-10-05,Newcastle,Chelsea,0
+EPL2425_077,2024-10-05,Nottingham Forest,Man City,2
+EPL2425_078,2024-10-05,Sheffield United,Everton,2
+EPL2425_079,2024-10-05,West Ham,Bournemouth,0
+EPL2425_080,2024-10-05,Wolves,Luton,1
+EPL2425_081,2024-10-19,Arsenal,Man City,1
+EPL2425_082,2024-10-19,Aston Villa,Man United,0
+EPL2425_083,2024-10-19,Bournemouth,Nottingham Forest,1
+EPL2425_084,2024-10-19,Burnley,Fulham,2
+EPL2425_085,2024-10-19,Chelsea,West Ham,0
+EPL2425_086,2024-10-19,Everton,Brighton,1
+EPL2425_087,2024-10-19,Liverpool,Sheffield United,0
+EPL2425_088,2024-10-19,Luton,Crystal Palace,2
+EPL2425_089,2024-10-19,Tottenham,Newcastle,1
+EPL2425_090,2024-10-19,Wolves,Brentford,0
+EPL2425_091,2024-10-26,Brentford,Chelsea,2
+EPL2425_092,2024-10-26,Brighton,Tottenham,1
+EPL2425_093,2024-10-26,Crystal Palace,Everton,0
+EPL2425_094,2024-10-26,Fulham,Arsenal,2
+EPL2425_095,2024-10-26,Man United,Wolves,0
+EPL2425_096,2024-10-26,Newcastle,Luton,1
+EPL2425_097,2024-10-26,Nottingham Forest,Liverpool,2
+EPL2425_098,2024-10-26,Sheffield United,Aston Villa,2
+EPL2425_099,2024-10-26,West Ham,Man City,1
+EPL2425_100,2024-10-26,Bournemouth,Burnley,0
+EPL2425_101,2024-11-02,Arsenal,Newcastle,0
+EPL2425_102,2024-11-02,Aston Villa,Nottingham Forest,1
+EPL2425_103,2024-11-02,Chelsea,Man United,2
+EPL2425_104,2024-11-02,Everton,Fulham,0
+EPL2425_105,2024-11-02,Liverpool,Bournemouth,0
+EPL2425_106,2024-11-02,Luton,Sheffield United,2
+EPL2425_107,2024-11-02,Man City,Wolves,1
+EPL2425_108,2024-11-02,Tottenham,Crystal Palace,0
+EPL2425_109,2024-11-02,West Ham,Brighton,1
+EPL2425_110,2024-11-02,Burnley,Brentford,2
+EPL2425_111,2024-11-09,Brentford,Liverpool,2
+EPL2425_112,2024-11-09,Brighton,Man City,1
+EPL2425_113,2024-11-09,Crystal Palace,Chelsea,0
+EPL2425_114,2024-11-09,Fulham,West Ham,2
+EPL2425_115,2024-11-09,Man United,Everton,0
+EPL2425_116,2024-11-09,Newcastle,Tottenham,1
+EPL2425_117,2024-11-09,Nottingham Forest,Luton,2
+EPL2425_118,2024-11-09,Sheffield United,Arsenal,2
+EPL2425_119,2024-11-09,Wolves,Aston Villa,0
+EPL2425_120,2024-11-09,Bournemouth,Burnley,1
+EPL2425_121,2024-11-23,Arsenal,Burnley,0
+EPL2425_122,2024-11-23,Aston Villa,Fulham,1
+EPL2425_123,2024-11-23,Chelsea,Bournemouth,2
+EPL2425_124,2024-11-23,Everton,Man United,0
+EPL2425_125,2024-11-23,Liverpool,Brighton,1
+EPL2425_126,2024-11-23,Luton,Newcastle,2
+EPL2425_127,2024-11-23,Man City,Sheffield United,0
+EPL2425_128,2024-11-23,Tottenham,Wolves,1
+EPL2425_129,2024-11-23,West Ham,Crystal Palace,0
+EPL2425_130,2024-11-23,Nottingham Forest,Brentford,2
+EPL2425_131,2024-11-30,Brentford,West Ham,1
+EPL2425_132,2024-11-30,Brighton,Arsenal,2
+EPL2425_133,2024-11-30,Crystal Palace,Liverpool,0
+EPL2425_134,2024-11-30,Fulham,Man City,2
+EPL2425_135,2024-11-30,Man United,Nottingham Forest,0
+EPL2425_136,2024-11-30,Newcastle,Aston Villa,1
+EPL2425_137,2024-11-30,Sheffield United,Tottenham,2
+EPL2425_138,2024-11-30,Wolves,Chelsea,1
+EPL2425_139,2024-11-30,Bournemouth,Luton,0
+EPL2425_140,2024-11-30,Burnley,Everton,2
+EPL2425_141,2024-12-03,Arsenal,Wolves,0
+EPL2425_142,2024-12-03,Aston Villa,Burnley,1
+EPL2425_143,2024-12-03,Chelsea,Brighton,2
+EPL2425_144,2024-12-03,Everton,Newcastle,0
+EPL2425_145,2024-12-03,Liverpool,Man United,1
+EPL2425_146,2024-12-03,Luton,Fulham,2
+EPL2425_147,2024-12-03,Man City,Bournemouth,0
+EPL2425_148,2024-12-03,Tottenham,Brentford,1
+EPL2425_149,2024-12-03,West Ham,Sheffield United,0
+EPL2425_150,2024-12-03,Nottingham Forest,Crystal Palace,2
+EPL2425_151,2024-12-07,Brentford,Aston Villa,1
+EPL2425_152,2024-12-07,Brighton,Nottingham Forest,0
+EPL2425_153,2024-12-07,Crystal Palace,West Ham,2
+EPL2425_154,2024-12-07,Fulham,Liverpool,1
+EPL2425_155,2024-12-07,Man United,Man City,2
+EPL2425_156,2024-12-07,Newcastle,Arsenal,0
+EPL2425_157,2024-12-07,Sheffield United,Chelsea,2
+EPL2425_158,2024-12-07,Wolves,Tottenham,1
+EPL2425_159,2024-12-07,Bournemouth,Everton,0
+EPL2425_160,2024-12-07,Burnley,Luton,2
+EPL2425_161,2024-12-14,Arsenal,Brighton,1
+EPL2425_162,2024-12-14,Aston Villa,Wolves,0
+EPL2425_163,2024-12-14,Chelsea,Burnley,2
+EPL2425_164,2024-12-14,Everton,Bournemouth,0
+EPL2425_165,2024-12-14,Liverpool,Newcastle,1
+EPL2425_166,2024-12-14,Luton,Man United,2
+EPL2425_167,2024-12-14,Man City,Crystal Palace,0
+EPL2425_168,2024-12-14,Tottenham,Sheffield United,1
+EPL2425_169,2024-12-14,West Ham,Fulham,0
+EPL2425_170,2024-12-14,Nottingham Forest,Brentford,2
+EPL2425_171,2024-12-21,Brentford,Man United,1
+EPL2425_172,2024-12-21,Brighton,West Ham,2
+EPL2425_173,2024-12-21,Crystal Palace,Nottingham Forest,0
+EPL2425_174,2024-12-21,Fulham,Tottenham,2
+EPL2425_175,2024-12-21,Newcastle,Man City,1
+EPL2425_176,2024-12-21,Sheffield United,Luton,0
+EPL2425_177,2024-12-21,Wolves,Liverpool,2
+EPL2425_178,2024-12-21,Bournemouth,Arsenal,1
+EPL2425_179,2024-12-21,Burnley,Aston Villa,0
+EPL2425_180,2024-12-21,Man United,Chelsea,2
+EPL2425_181,2024-12-26,Arsenal,West Ham,0
+EPL2425_182,2024-12-26,Aston Villa,Sheffield United,1
+EPL2425_183,2024-12-26,Chelsea,Crystal Palace,2
+EPL2425_184,2024-12-26,Everton,Man City,0
+EPL2425_185,2024-12-26,Liverpool,Burnley,1
+EPL2425_186,2024-12-26,Luton,Bournemouth,2
+EPL2425_187,2024-12-26,Man United,Newcastle,0
+EPL2425_188,2024-12-26,Tottenham,Brighton,1
+EPL2425_189,2024-12-26,Nottingham Forest,Wolves,2
+EPL2425_190,2024-12-26,Fulham,Brentford,0
+EPL2425_191,2024-12-30,Brentford,Everton,1
+EPL2425_192,2024-12-30,Brighton,Luton,2
+EPL2425_193,2024-12-30,Crystal Palace,Fulham,0
+EPL2425_194,2024-12-30,Man City,Liverpool,1
+EPL2425_195,2024-12-30,Newcastle,Nottingham Forest,0
+EPL2425_196,2024-12-30,Sheffield United,Man United,2
+EPL2425_197,2024-12-30,West Ham,Aston Villa,1
+EPL2425_198,2024-12-30,Wolves,Arsenal,2
+EPL2425_199,2024-12-30,Bournemouth,Tottenham,0
+EPL2425_200,2024-12-30,Burnley,Chelsea,1
+EPL2425_201,2025-01-13,Arsenal,Crystal Palace,0
+EPL2425_202,2025-01-13,Aston Villa,Everton,1
+EPL2425_203,2025-01-13,Chelsea,Luton,2
+EPL2425_204,2025-01-13,Liverpool,West Ham,0
+EPL2425_205,2025-01-13,Man City,Burnley,1
+EPL2425_206,2025-01-13,Nottingham Forest,Sheffield United,2
+EPL2425_207,2025-01-13,Tottenham,Man United,0
+EPL2425_208,2025-01-13,Wolves,Newcastle,1
+EPL2425_209,2025-01-13,Fulham,Brighton,2
+EPL2425_210,2025-01-13,Bournemouth,Brentford,0
+EPL2425_211,2025-01-30,Brentford,Wolves,1
+EPL2425_212,2025-01-30,Brighton,Man United,2
+EPL2425_213,2025-01-30,Crystal Palace,Sheffield United,0
+EPL2425_214,2025-01-30,Everton,Arsenal,1
+EPL2425_215,2025-01-30,Luton,Aston Villa,2
+EPL2425_216,2025-01-30,Man City,Chelsea,0
+EPL2425_217,2025-01-30,Newcastle,Fulham,1
+EPL2425_218,2025-01-30,West Ham,Nottingham Forest,2
+EPL2425_219,2025-01-30,Bournemouth,Liverpool,0
+EPL2425_220,2025-01-30,Burnley,Tottenham,1
+EPL2425_221,2025-02-03,Arsenal,Liverpool,2
+EPL2425_222,2025-02-03,Aston Villa,Chelsea,0
+EPL2425_223,2025-02-03,Fulham,Bournemouth,1
+EPL2425_224,2025-02-03,Man United,Crystal Palace,2
+EPL2425_225,2025-02-03,Newcastle,Brentford,0
+EPL2425_226,2025-02-03,Nottingham Forest,Burnley,1
+EPL2425_227,2025-02-03,Sheffield United,Brighton,2
+EPL2425_228,2025-02-03,Tottenham,Man City,0
+EPL2425_229,2025-02-03,Wolves,West Ham,1
+EPL2425_230,2025-02-03,Everton,Luton,2
+EPL2425_231,2025-02-10,Brentford,Sheffield United,0
+EPL2425_232,2025-02-10,Brighton,Wolves,1
+EPL2425_233,2025-02-10,Crystal Palace,Newcastle,2
+EPL2425_234,2025-02-10,Luton,Arsenal,0
+EPL2425_235,2025-02-10,Man City,Aston Villa,1
+EPL2425_236,2025-02-10,West Ham,Everton,2
+EPL2425_237,2025-02-10,Bournemouth,Man United,0
+EPL2425_238,2025-02-10,Burnley,Nottingham Forest,1
+EPL2425_239,2025-02-10,Chelsea,Fulham,2
+EPL2425_240,2025-02-10,Liverpool,Tottenham,0
+EPL2425_241,2025-02-17,Arsenal,Burnley,1
+EPL2425_242,2025-02-17,Aston Villa,Liverpool,2
+EPL2425_243,2025-02-17,Everton,Chelsea,0
+EPL2425_244,2025-02-17,Fulham,Luton,1
+EPL2425_245,2025-02-17,Man United,West Ham,2
+EPL2425_246,2025-02-17,Newcastle,Brighton,0
+EPL2425_247,2025-02-17,Nottingham Forest,Man City,1
+EPL2425_248,2025-02-17,Sheffield United,Crystal Palace,2
+EPL2425_249,2025-02-17,Tottenham,Bournemouth,0
+EPL2425_250,2025-02-17,Wolves,Brentford,1
+EPL2425_251,2025-02-24,Brentford,Nottingham Forest,2
+EPL2425_252,2025-02-24,Brighton,Sheffield United,0
+EPL2425_253,2025-02-24,Crystal Palace,Wolves,1
+EPL2425_254,2025-02-24,Luton,Everton,2
+EPL2425_255,2025-02-24,Man City,Arsenal,0
+EPL2425_256,2025-02-24,West Ham,Newcastle,1
+EPL2425_257,2025-02-24,Bournemouth,Aston Villa,2
+EPL2425_258,2025-02-24,Burnley,Man United,0
+EPL2425_259,2025-02-24,Chelsea,Tottenham,1
+EPL2425_260,2025-02-24,Liverpool,Fulham,2
+EPL2425_261,2025-03-02,Arsenal,Chelsea,0
+EPL2425_262,2025-03-02,Aston Villa,Crystal Palace,1
+EPL2425_263,2025-03-02,Everton,Liverpool,2
+EPL2425_264,2025-03-02,Fulham,Burnley,0
+EPL2425_265,2025-03-02,Man United,Brighton,1
+EPL2425_266,2025-03-02,Newcastle,Man City,2
+EPL2425_267,2025-03-02,Nottingham Forest,Bournemouth,0
+EPL2425_268,2025-03-02,Sheffield United,Brentford,1
+EPL2425_269,2025-03-02,Tottenham,West Ham,2
+EPL2425_270,2025-03-02,Wolves,Luton,0
+EPL2425_271,2025-03-09,Brentford,Man City,1
+EPL2425_272,2025-03-09,Brighton,Nottingham Forest,2
+EPL2425_273,2025-03-09,Crystal Palace,Man United,0
+EPL2425_274,2025-03-09,Luton,Chelsea,1
+EPL2425_275,2025-03-09,West Ham,Arsenal,2
+EPL2425_276,2025-03-09,Bournemouth,Wolves,0
+EPL2425_277,2025-03-09,Burnley,Sheffield United,1
+EPL2425_278,2025-03-09,Liverpool,Newcastle,2
+EPL2425_279,2025-03-09,Fulham,Everton,0
+EPL2425_280,2025-03-09,Tottenham,Aston Villa,1
+EPL2425_281,2025-03-16,Arsenal,Tottenham,2
+EPL2425_282,2025-03-16,Aston Villa,Luton,0
+EPL2425_283,2025-03-16,Chelsea,Liverpool,1
+EPL2425_284,2025-03-16,Everton,Burnley,2
+EPL2425_285,2025-03-16,Man City,West Ham,0
+EPL2425_286,2025-03-16,Newcastle,Bournemouth,1
+EPL2425_287,2025-03-16,Nottingham Forest,Fulham,2
+EPL2425_288,2025-03-16,Sheffield United,Crystal Palace,0
+EPL2425_289,2025-03-16,Wolves,Brighton,1
+EPL2425_290,2025-03-16,Man United,Brentford,2
+EPL2425_291,2025-03-30,Brentford,Arsenal,0
+EPL2425_292,2025-03-30,Brighton,Aston Villa,1
+EPL2425_293,2025-03-30,Crystal Palace,Everton,2
+EPL2425_294,2025-03-30,Luton,Liverpool,0
+EPL2425_295,2025-03-30,Man City,Man United,1
+EPL2425_296,2025-03-30,West Ham,Chelsea,2
+EPL2425_297,2025-03-30,Bournemouth,Sheffield United,0
+EPL2425_298,2025-03-30,Burnley,Wolves,1
+EPL2425_299,2025-03-30,Fulham,Newcastle,2
+EPL2425_300,2025-03-30,Tottenham,Nottingham Forest,0
+EPL2425_301,2025-04-06,Arsenal,Fulham,1
+EPL2425_302,2025-04-06,Aston Villa,Bournemouth,2
+EPL2425_303,2025-04-06,Chelsea,Brentford,0
+EPL2425_304,2025-04-06,Everton,West Ham,1
+EPL2425_305,2025-04-06,Liverpool,Burnley,2
+EPL2425_306,2025-04-06,Man United,Luton,0
+EPL2425_307,2025-04-06,Newcastle,Crystal Palace,1
+EPL2425_308,2025-04-06,Nottingham Forest,Brighton,2
+EPL2425_309,2025-04-06,Sheffield United,Man City,0
+EPL2425_310,2025-04-06,Wolves,Tottenham,1
+EPL2425_311,2025-04-13,Brentford,Brighton,2
+EPL2425_312,2025-04-13,Crystal Palace,Arsenal,0
+EPL2425_313,2025-04-13,Luton,Wolves,1
+EPL2425_314,2025-04-13,Man City,Everton,2
+EPL2425_315,2025-04-13,West Ham,Liverpool,0
+EPL2425_316,2025-04-13,Bournemouth,Man United,1
+EPL2425_317,2025-04-13,Burnley,Newcastle,2
+EPL2425_318,2025-04-13,Chelsea,Sheffield United,0
+EPL2425_319,2025-04-13,Fulham,Aston Villa,1
+EPL2425_320,2025-04-13,Tottenham,Nottingham Forest,2
+EPL2425_321,2025-04-20,Arsenal,Aston Villa,0
+EPL2425_322,2025-04-20,Brighton,Crystal Palace,1
+EPL2425_323,2025-04-20,Everton,Tottenham,2
+EPL2425_324,2025-04-20,Liverpool,Chelsea,0
+EPL2425_325,2025-04-20,Man United,Arsenal,1
+EPL2425_326,2025-04-20,Newcastle,Sheffield United,2
+EPL2425_327,2025-04-20,Nottingham Forest,West Ham,0
+EPL2425_328,2025-04-20,Wolves,Man City,1
+EPL2425_329,2025-04-20,Bournemouth,Fulham,2
+EPL2425_330,2025-04-20,Burnley,Brentford,0
+EPL2425_331,2025-04-27,Brentford,Newcastle,1
+EPL2425_332,2025-04-27,Crystal Palace,Bournemouth,2
+EPL2425_333,2025-04-27,Luton,Nottingham Forest,0
+EPL2425_334,2025-04-27,Man City,Liverpool,1
+EPL2425_335,2025-04-27,West Ham,Brighton,2
+EPL2425_336,2025-04-27,Sheffield United,Wolves,0
+EPL2425_337,2025-04-27,Chelsea,Arsenal,1
+EPL2425_338,2025-04-27,Fulham,Man United,2
+EPL2425_339,2025-04-27,Tottenham,Burnley,0
+EPL2425_340,2025-04-27,Aston Villa,Everton,1
+EPL2425_341,2025-05-04,Arsenal,Sheffield United,2
+EPL2425_342,2025-05-04,Brighton,Chelsea,0
+EPL2425_343,2025-05-04,Everton,Wolves,1
+EPL2425_344,2025-05-04,Man United,Aston Villa,2
+EPL2425_345,2025-05-04,Newcastle,West Ham,0
+EPL2425_346,2025-05-04,Nottingham Forest,Crystal Palace,1
+EPL2425_347,2025-05-04,Bournemouth,Man City,2
+EPL2425_348,2025-05-04,Burnley,Fulham,0
+EPL2425_349,2025-05-04,Liverpool,Luton,1
+EPL2425_350,2025-05-04,Tottenham,Brentford,2
+EPL2425_351,2025-05-11,Brentford,Bournemouth,0
+EPL2425_352,2025-05-11,Crystal Palace,Burnley,1
+EPL2425_353,2025-05-11,Luton,Tottenham,2
+EPL2425_354,2025-05-11,Man City,Nottingham Forest,0
+EPL2425_355,2025-05-11,West Ham,Man United,1
+EPL2425_356,2025-05-11,Wolves,Liverpool,2
+EPL2425_357,2025-05-11,Aston Villa,Arsenal,0
+EPL2425_358,2025-05-11,Chelsea,Newcastle,1
+EPL2425_359,2025-05-11,Fulham,Brighton,2
+EPL2425_360,2025-05-11,Sheffield United,Everton,0
+EPL2425_361,2025-05-19,Arsenal,Luton,1
+EPL2425_362,2025-05-19,Aston Villa,West Ham,2
+EPL2425_363,2025-05-19,Everton,Brentford,0
+EPL2425_364,2025-05-19,Liverpool,Crystal Palace,1
+EPL2425_365,2025-05-19,Man United,Chelsea,2
+EPL2425_366,2025-05-19,Newcastle,Man City,0
+EPL2425_367,2025-05-19,Nottingham Forest,Sheffield United,1
+EPL2425_368,2025-05-19,Bournemouth,Wolves,2
+EPL2425_369,2025-05-19,Burnley,Brighton,0
+EPL2425_370,2025-05-19,Tottenham,Fulham,1
